@@ -1,6 +1,6 @@
 # AnswerRoute
 
-AnswerRoute is an AI answer ranking platform that helps brands track, analyze, and improve how they appear in AI-generated answers from ChatGPT, Gemini, Perplexity, Claude, and Google AI.
+AnswerRoute is an AI answer ranking and optimization data platform that helps brands track where they appear in AI answers, compare competitors, find citation and content gaps, generate optimization actions, and recheck whether AI visibility improves.
 
 Website: https://answerroute.com
 
